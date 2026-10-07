@@ -1,0 +1,15 @@
+# Environments
+scrapy_env/
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Scrapy crawl outputs & cache
+.scrapy/
+*.log
+*.sqlite
+*.db
